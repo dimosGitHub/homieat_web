@@ -1,0 +1,17 @@
+{
+"companyName": "雲程在線股份有限公司",
+"productName": "小弟外送-餐廳專用_test",
+"productVersion": "19",
+"dataUrl": "Web.data.unityweb",
+"wasmCodeUrl": "Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.10f1"
+}
